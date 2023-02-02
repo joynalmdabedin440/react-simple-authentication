@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-simple-authentication/static/css/main.756af292.css",
+    "main.js": "/react-simple-authentication/static/js/main.0f25b4b3.js",
+    "static/js/787.8967abc3.chunk.js": "/react-simple-authentication/static/js/787.8967abc3.chunk.js",
+    "index.html": "/react-simple-authentication/index.html",
+    "main.756af292.css.map": "/react-simple-authentication/static/css/main.756af292.css.map",
+    "main.0f25b4b3.js.map": "/react-simple-authentication/static/js/main.0f25b4b3.js.map",
+    "787.8967abc3.chunk.js.map": "/react-simple-authentication/static/js/787.8967abc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.0f25b4b3.js"
+  ]
+}
